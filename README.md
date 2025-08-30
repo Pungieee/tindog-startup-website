@@ -11,4 +11,4 @@ This is a simple startup-style landing page project for **practicing Bootstrap**
 - Building **sections** like hero/title, features, testimonials, pricing, and footer  
 - Linking **external Bootstrap CSS** and custom CSS
 
-Pretty much just experimenting with **layout, responsiveness, and Bootstrap components :)**.
+Pretty much just experimenting with **layout, responsiveness, and Bootstrap components :)**
